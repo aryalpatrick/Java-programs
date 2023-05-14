@@ -1,2 +1,2 @@
 # Java-programs
-Simple JAVA Programs created by me
+Simple JAVA Programs by me
